@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Todo12</string>
+    <string name="donut">Donuts are glazed and sprinkled with candy.</string>
+    <string name="ice">Ice Cream have two different flavors.</string>
+    <string name="froyo">FroYo is a preminum self serve frozen yogut</string>
+    <string name="Donut">You have Ordered Donut</string>
+    <string name="Ice"> You have ordered Ice Cream</string>
+    <string name="Foryo"> You have ordered FroYo </string>
+
+    <string-array name="label_array">
+        <item>home</item>
+        <item>Work</item>
+        <item>Personal</item>
+        <item>tel</item>
+    </string-array>
+
+</resources>
